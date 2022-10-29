@@ -1,4 +1,4 @@
-<h1 align="center">Olá,seja bem vindo!👋  é Pedro Henrique.</h1>
+<h1 align="center">Olá, seja bem vindo!👋</h1>
 
 - 📑 Me chamo Pedro Henrique, atualmente curso Sistemas de informação pelo Instituto Federal de Minas Gerais - Campus Ouro Branco.
 - 🚣🏻 Atualmente estou focado em estudar o universo **React**.
