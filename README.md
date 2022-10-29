@@ -7,7 +7,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedroohmf&show_icons=true&theme=react)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 
 <a href="https://www.facebook.com/pedroo2017/" target="blank">	![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
