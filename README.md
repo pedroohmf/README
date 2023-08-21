@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja bem vindo!👋</h1>
 
-- 📑 Me chamo Pedro Henrique, atualmente curso Sistemas de informação pelo Instituto Federal de Minas Gerais - Campus Ouro Branco.
+- ⚡ Me chamo Pedro Henrique, atualmente curso Sistemas de informação pelo Instituto Federal de Minas Gerais - Campus Ouro Branco.
 - 🚣🏻 Atualmente estou focado em estudar o universo **React**.
 - 📩 Contato **pedrohfm2012@yahoo.com.br**.
 - ⚡ Entusiasta Javascript.
@@ -8,7 +8,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedroohmf&show_icons=true&theme=react)
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.facebook.com/pedroo2017/" target="blank">	![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
@@ -32,11 +32,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <h3 align="left">Estou aprendendo:</h3>
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Next](https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg)
+![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
