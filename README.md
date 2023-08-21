@@ -36,6 +36,6 @@
 <h3 align="left">Estou aprendendo:</h3>
 
 
-![Next](https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg)
-![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
