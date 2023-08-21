@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja bem vindo!👋</h1>
 
-- ⚡ Me chamo Pedro Henrique, atualmente curso Sistemas de informação pelo Instituto Federal de Minas Gerais - Campus Ouro Branco.
+- 🧑‍💻 Me chamo Pedro Henrique, atualmente curso Sistemas de informação pelo Instituto Federal de Minas Gerais - Campus Ouro Branco.
 - 🚣🏻 Atualmente estou focado em estudar o universo **React**.
 - 📩 Contato **pedrohfm2012@yahoo.com.br**.
 - ⚡ Entusiasta Javascript.
@@ -33,6 +33,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <h3 align="left">Estou aprendendo:</h3>
 
 
